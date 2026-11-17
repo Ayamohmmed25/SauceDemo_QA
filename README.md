@@ -106,7 +106,7 @@ SauceDemo_QA/
 Clone the repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone https://github.com/Ayamohmmed25/SauceDemo_QA.git
 ```
 
 Navigate to the project directory:
@@ -140,7 +140,15 @@ target/surefire-reports/
 
 [SauceDemo](https://www.saucedemo.com/)
 
-## Author
+## Author 
+
+Aya Mohammed Nazzal
+Software Engineering Graduate | Aspiring Software Quality Assurance Engineer
+
+- LinkedIn: www.linkedin.com/in/ayanazzall
+- Email: ayamohnazzal@gmail.com
+
+
 
 Software Engineering Graduate
 
