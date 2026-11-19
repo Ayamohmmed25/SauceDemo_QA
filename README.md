@@ -147,10 +147,3 @@ Software Engineering Graduate | Aspiring Software Quality Assurance Engineer
 
 - LinkedIn: www.linkedin.com/in/ayanazzall
 - Email: ayamohnazzal@gmail.com
-
-
-
-Software Engineering Graduate
-
-Aspiring Software Quality Assurance Engineer
-
